@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner"/>
+  <img src="meubanner.png" alt="Banner"/>
 </p>
 
 ## `☕ Sobre Mim`
