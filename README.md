@@ -2,9 +2,6 @@
   <img src="banner.png" alt="Banner"/>
 </p>
 
-<br>
-<h1 align="center">A</h1>
-
 ## `🐱 Sobre Mim`
 
 
