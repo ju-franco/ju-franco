@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner"/>
+</p>
 
-## `🐱 Sobre Mim`
+## `☕ Sobre Mim`
 
 
 📍 Estudante do 3° ano de Desenvolvimento de Sistemas na ETEC de Hortolândia
