@@ -7,8 +7,6 @@
 📍 Estudante do 3° ano de Desenvolvimento de Sistemas na ETEC de Hortolândia <br>
 ✨ Desenvolvedora Front-end, entusiasta de design gráfico e UI/UX
 
-<br>
-
 ## `🏆 Conquistas e Experiências`
 
 📚 GLAUKS – Sistema de Gestão e Mapeamento para Bibliotecas Escolares (TCC)
@@ -16,12 +14,7 @@
 
 🏅 Projeto participante da 13ª Mostra de Ciências e Tecnologia do Instituto 3M e medalhista de bronze na 13ª edição da PROJETEC 
 
-<br>
-
 ##  `💻 Tecnologias`
-
-<br>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -31,11 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<br>
-
 ## `⚙️ Ferramentas e Softwares`
-
-<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,11 +36,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<br>
-
 ## `📫 Contato`
-
-<br>
 
 <p align="left">
  <a href="https://www.linkedin.com/in/franc0julia/" target="_blank">
