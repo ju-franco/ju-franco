@@ -42,9 +42,6 @@
  <a href="https://www.linkedin.com/in/franc0julia/" target="_blank">
   <img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
-<a href="mailto:juliafranco093@gmail.com" target="_blank">
-  <img align="center" alt="email" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg">
-</a>
 </p>
 
 
