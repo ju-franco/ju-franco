@@ -4,7 +4,7 @@
 
 ## `☕ Sobre Mim`
 
-📍 Estudante do 3° ano de Desenvolvimento de Sistemas na ETEC de Hortolândia <br>
+📍 Técnica em Desenvolvimento de Sistemas <br>
 ✨ Desenvolvedora Front-end, entusiasta de design gráfico e UI/UX
 
 ## `🏆 Conquistas e Experiências`
