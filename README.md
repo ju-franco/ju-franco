@@ -4,7 +4,7 @@
 
 ## `☕ Sobre Mim`
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas <br>
 📚 Técnica em Desenvolvimento de Sistemas <br>
 ✨ Desenvolvedora Front-end, entusiasta de design gráfico e UI/UX
 
