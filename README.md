@@ -15,18 +15,11 @@
 
 🏅 Projeto participante da 13ª Mostra de Ciências e Tecnologia do Instituto 3M e medalhista de bronze na 13ª edição da PROJETEC 
 
-##  `💻 Tecnologias`
-
-<p align="center">
-  💡 Front-end • Mobile • UI/UX • Backend
-</p>
-
+##  `💻 Tecnologias / Ferramentas / Softwares`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,ts,react,html,css,nodejs,figma,git,github,firebase,mysql,vite,androidstudio,visualstudio,vscode" />
 </p>
-
-## `⚙️ Ferramentas e Softwares`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ju-franco&theme=dark" />
