@@ -27,9 +27,5 @@
 
 ## `📫 Contato`
 
-<p align="left">
- <a href="https://www.linkedin.com/in/juliamrfranco/" target="_blank">
-  <img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliamrfranco/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliafranco093@gmail.com)
