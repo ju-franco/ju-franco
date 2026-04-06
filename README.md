@@ -28,7 +28,7 @@
 ## `📫 Contato`
 
 <p align="left">
- <a href="https://www.linkedin.com/in/franc0julia/" target="_blank">
+ <a href="https://www.linkedin.com/in/juliamrfranco/" target="_blank">
   <img align="center" alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 </p>
