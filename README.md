@@ -4,16 +4,10 @@
 
 ## `☕ Sobre Mim`
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas <br>
-📚 Técnica em Desenvolvimento de Sistemas <br>
-✨ Desenvolvedora Front-end, entusiasta de design gráfico e UI/UX
+✦  Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas <br>
+✦  Técnica em Desenvolvimento de Sistemas <br>
+✦  Desenvolvedora Front-end, entusiasta de design gráfico e UI/UX
 
-## `🏆 Conquistas e Experiências`
-
-📚 GLAUKS – Sistema de Gestão e Mapeamento para Bibliotecas Escolares (TCC)
-> Voltado à *modernização de bibliotecas escolares, incentivo à leitura e democratização do acesso ao conhecimento*. Possui um *aplicativo mobile* para alunos, com busca e visualização de obras, e uma *plataforma web* administrativa para catalogação, controle de empréstimos e gerenciamento interno
-
-🏅 Projeto participante da 13ª Mostra de Ciências e Tecnologia do Instituto 3M e medalhista de bronze na 13ª edição da PROJETEC 
 
 ##  `💻 Tecnologias / Ferramentas / Softwares`
 
@@ -21,9 +15,14 @@
 <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,ts,react,html,css,nodejs,figma,git,github,firebase,mysql,vite,androidstudio,visualstudio,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ju-franco&theme=dark" />
-</p>
+<br/>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ju-franco&theme=synthwave" />
+  <br/><br/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ju-franco&show_icons=true&theme=synthwave" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-franco&layout=compact&theme=synthwave" />
+</div> <br/>
 
 ## `📫 Contato`
 
