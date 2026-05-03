@@ -47,7 +47,7 @@
   <img height="280em" src="https://streak-stats.demolab.com?user=ju-franco&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true"/>
   <br/>
   <br/>
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ju-franco&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ju-franco&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true" />
 </p>
 
 ## `✉ < Contato /> `
