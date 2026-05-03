@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerjulia.png" alt="Banner"/>
+  <img src="bannerjulia-p.png" alt="Banner"/>
 </p>
 
 ## ` ➥ < Sobre Mim /> `
